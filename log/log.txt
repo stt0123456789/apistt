@@ -1,0 +1,10 @@
+[2024-04-28 16:22:04] INFO [<module>, 10] 接口测试
+[2024-04-28 16:28:39] ERROR [send_email, 22] (550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
+[2024-04-28 16:31:25] INFO [test_all, 8] ====运行所有的case========
+[2024-04-28 16:31:26] ERROR [send_email, 22] (550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
+[2024-04-28 16:31:26] INFO [test_all, 19] ========测试结束=======
+[2024-04-28 16:32:25] ERROR [send_email, 22] (550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
+[2024-04-28 16:32:54] INFO [test_all, 8] ====运行所有的case========
+[2024-04-28 16:32:55] ERROR [send_email, 22] (550, b'The "From" header is missing or invalid. Please follow RFC5322, RFC2047, RFC822 standard protocol. https://service.mail.qq.com/detail/124/995.')
+[2024-04-28 16:32:55] INFO [test_all, 19] ========测试结束=======
+[2024-04-28 16:33:02] INFO [<module>, 10] 接口测试
